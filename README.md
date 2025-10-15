@@ -1,9 +1,5 @@
 # CN
 
-# Comprehensive Notes on Network Access, Core, and Architecture
-
-This document provides a structured summary of key concepts in computer networking, based on the provided text. It covers how end systems connect to the internet (Access Networks), how data travels through the core, and the overall structure of the global internet.
-
 ---
 
 ## 1. The Network Edge: Access Networks & Physical Media
